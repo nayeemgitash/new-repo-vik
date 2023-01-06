@@ -18,3 +18,8 @@ seventeen
 eighteen
 nineteen
 twenty
+100
+200
+300
+400
+500
