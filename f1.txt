@@ -18,12 +18,12 @@ seventeen
 eighteen
 nineteen
 twenty
-100
-200
+100   hundred
+200   two hundred
 300
 400
 500
-1000
+1000   thousand
 2000
 3000
 4000
